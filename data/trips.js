@@ -1797,7 +1797,37 @@ module.exports = [
     "userID": 29,
     "destinationID": 23,
     "travelers": 6,
-    "date": "2020/06/29",
+    "date": "2022/06/29",
+    "duration": 7,
+    "status": "approved",
+    "suggestedActivities": []
+  },
+  {
+    "id": 201,
+    "userID": 44,
+    "destinationID": 20,
+    "travelers": 3,
+    "date": "2021/08/08",
+    "duration": 7,
+    "status": "approved",
+    "suggestedActivities": []
+  },
+  {
+    "id": 202,
+    "userID": 44,
+    "destinationID": 15,
+    "travelers": 3,
+    "date": "2022/08/08",
+    "duration": 7,
+    "status": "approved",
+    "suggestedActivities": []
+  },
+  {
+    "id": 203,
+    "userID": 29,
+    "destinationID": 12,
+    "travelers": 6,
+    "date": "2021/08/08",
     "duration": 7,
     "status": "approved",
     "suggestedActivities": []
