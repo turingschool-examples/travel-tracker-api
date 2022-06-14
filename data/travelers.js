@@ -137,7 +137,7 @@ module.exports = [
     "travelerType": "shopper",
   }, {
     "id": 35,
-    "name": "Lorilyn Frostdick",
+    "name": "Lorilyn Barlowe",
     "travelerType": "shopper",
   }, {
     "id": 36,
@@ -177,7 +177,7 @@ module.exports = [
     "travelerType": "photographer",
   }, {
     "id": 45,
-    "name": "Ofilia Titman",
+    "name": "Ofilia Hart",
     "travelerType": "thrill-seeker",
   }, {
     "id": 46,
