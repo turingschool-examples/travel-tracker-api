@@ -2,9 +2,14 @@
     "version": 2,
     "name": "travel-tracker-api",
     "builds": [
-        {"src": "server.js", "use": "@vercel/node" }
+        {
+            "src": "server.js", 
+            "use": "@vercel/node" }
     ],
     "routes": [
-        {"src":"(/(.*)", "dest": "/app.js" }
+        {
+            "src":"(/(.*)", 
+            "dest": "/server.js" 
+        }
     ]
 }
